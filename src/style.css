@@ -14,8 +14,8 @@ h3 {
   text-align: center;
 }
 p {
-  font-size: 100px;
   margin-bottom: 0px;
+  display: inline-block;
 }
 ul {
   list-style: none;
